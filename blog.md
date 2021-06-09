@@ -1,4 +1,0 @@
-I spent most of April thoroughly studying for my theoretical computer science exam. I didn’t have to study such a math heavy subject since the dynamical systems exam I had last October (an exam that I started in August and consequently became one of the leitmotivs of the summer of 2020).
-I really enjoyed tcs. Probably more than all the other math exam I had, since I prefer discrete math rather than analysis, it is almost like I can internalize those concepts more intuitively.
-At this point, though, I want to leave out math related stuff for a while. Not too much, at least one month though. I want to focus on more computer science related stuff, especially programming.
-Yesterday I started trying to get a bit into Ruby. The impression I got wasn’t bad at all, but it’s not the same feeling of awe that Haskell gave me the first time I saw what you could do with it.
